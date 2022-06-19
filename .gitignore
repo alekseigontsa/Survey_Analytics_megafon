@@ -2,3 +2,5 @@ Other/
 .ipynb_checkpoints/
 *.csv
 *.xlsx
+*.pdf
+*.pptx
